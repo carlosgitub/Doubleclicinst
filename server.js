@@ -3,7 +3,6 @@ const path = require('path');
 const favicon = require('serve-favicon');
 const bodyParser = require('body-parser');
 
-// const pies = require('./server/routes/pies');
 
 const app = express();
 
